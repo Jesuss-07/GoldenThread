@@ -15,11 +15,30 @@ GoldenThread busca convertirse en una plataforma completa, profesional y manteni
 
 ## Tecnologías utilizadas
 
-- Frontend
-    -
-    -
-- Backend
-    -
-    -
-- Base de Datos
-    -
+### Frontend
+   - Angular 17+
+   - TypeScript
+   - HTML5
+   - CSS3 / SCSS
+   - Angular Router
+   - Angular HTTPClient
+   - Reactive Forms
+   - JWT Interceptor
+   - RxJS
+   - Angular CLI
+   - PrimeNG / Angular Material (UI Components)
+
+### Backend
+   - Java 17
+   - Spring Boot 3
+   - Spring Web (REST API)
+   - Spring Security + JWT
+   - Spring Data JPA (Hibernate)
+   - Maven
+   - Lombok
+   - Swagger / OpenAPI
+   - ModelMapper / MapStruct
+
+### Base de Datos
+   - MySQL / PostgreSQL
+
